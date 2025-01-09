@@ -21,6 +21,7 @@ The project utilized a data-driven approach, including:
 ### Exploratory Data Analysis (EDA):
 - Distribution of age groups, gender, income levels, and education.
 - Cross-tabulations to understand relationships among health indicators.
+- Data was clustered using k-means clustering.
 
 ### Visualization Tools
 - Heatmaps, bar charts, scatter plots, and predictive analysis results were generated to illustrate findings.
